@@ -101,6 +101,6 @@ Pillow для тех же ядер записал те же файлы: pillow_k
 
 ## 5. Использованные источники
 
-- Gonzalez R. C., Woods R. E. Digital Image Processing. Медианный фильтр как способ убрать импульсный шум.
+- Google: Медианный фильтр как способ убрать импульсный шум.
 - Pillow 10.2.0, модуль PIL.ImageFilter: классы MedianFilter и RankFilter, метод Image.filter.
 - NumPy 1.26.4, numpy.pad с mode="edge": дополнение кадра повторением крайних пикселей.
